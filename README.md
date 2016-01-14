@@ -5,7 +5,7 @@ The purpose of this SDK is to facilitate integration with IdentityX ([https://ww
 
 *IdentityX is a human authentication platform enabling people, across any channel to easily assert and protect their identity.*
 
-For more details on how to use this SDK please see [https://daoninc.github.io/fido-integration]https://daoninc.github.io/fido-integration.
+For more details on how to use this SDK please see [FIDO Integration guide](https://daoninc.github.io/fido-integration).
 
 ##Help
 Contact us via email at support@daon.com. You can also see the IdentityX documentation for more information.
